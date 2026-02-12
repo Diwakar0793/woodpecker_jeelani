@@ -2546,7 +2546,7 @@ section,
       min-height: 20vh !important;
   }
 
-  #hero .container.p-0 img {
+  #hero .hero-banner-wrapper img {
       height: 20vh;
       object-fit: cover;
   }
